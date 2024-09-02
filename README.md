@@ -12,7 +12,7 @@ A violin chinrest that utilizes a novel moldable construction for enhanced comfo
 ## Project Files
 ### [3D Models](https://www.thingiverse.com/thing:6181987)
 
-### [Photo Gallery](/Images/) 
+### [Photo Gallery](/images/) 
 
 ## Documentation
 
