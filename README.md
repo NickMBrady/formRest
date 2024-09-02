@@ -7,7 +7,7 @@ A violin chinrest that utilizes a novel moldable construction for enhanced comfo
 
 ### At 140 degrees fahrenheit the Form chinrest becomes highly moldable. Due to its porous construction, the rest can easily support compound curvature, agnostic of axis, and will capture the formed shape when hardened. The rest is available in three heights, can be infinitely remolded with reheating, and can be 3D printed at home provided compatable, standard mounting hardware. 
 
-![chinrest animation](assets/ezgif.com-speed.gif)
+![chinrest animation](assets/giphy.gif)
 
 ## Project Files
 ### [3D Models](https://www.thingiverse.com/thing:6181987)
